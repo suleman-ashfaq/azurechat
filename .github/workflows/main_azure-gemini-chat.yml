@@ -1,4 +1,4 @@
-name: ON-PUSH:Build & deploy Next.js app to Azure Web App - uta-ai-fe
+name: ON-PUSH:Build & deploy Next.js app to Azure Web App - gemini-app
 
 on: 
   push:
